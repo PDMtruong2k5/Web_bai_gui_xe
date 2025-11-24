@@ -150,12 +150,13 @@ Hoặc truy cập các link trong trình duyệt:
 Mở XAMPP Control Panel → Start Apache và MySQL
 
 Truy cập hệ thống:
-👉 `http://localhost/btl_nhom-13-demo/`
+`http://localhost/btl_nhom-13-demo/`
 
 ### 4.7. Đăng nhập lần đầu
 Hệ thống có tài khoản admin mặc định
 
 Sau khi đăng nhập Admin có thể:
+- Trang chủ
 - Quản lý khách hàng
 - Quản lý khu vực bãi gửi xe
 - Quản lý vé gửi xe
