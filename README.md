@@ -64,7 +64,7 @@ Hệ thống quản lý dịch vụ bãi gửi xe là một ứng dụng web đ�
 ### Trang quản lý thanh toán
 <img width="1850" height="893" alt="image" src="https://github.com/user-attachments/assets/8c01d075-552f-48ee-874c-9f2fa9d661a7" />
 ### Trang quản lý doanh thu
-<img width="1888" height="944" alt="image" src="https://github.com/user-attachments/assets/5a870eb0-4971-4bc1-8f8a-480bf1f79e0e" />
+<img width="1875" height="899" alt="image" src="https://github.com/user-attachments/assets/fc0880d1-4f63-4c7c-9056-6053919e96e5" />
 ### Trang quản lý thông báo
 <img width="1851" height="897" alt="image" src="https://github.com/user-attachments/assets/7d157a5d-470a-4f3c-847b-d68803df722c" />
 
